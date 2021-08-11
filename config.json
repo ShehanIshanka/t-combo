@@ -1,0 +1,8 @@
+{
+  "configs": [
+    {
+      "input_file": "../prep_time_batch_preparation_query.hql",
+      "output_file": "../prep_time_batch_preparation_query1.hql"
+    }
+  ]
+}
